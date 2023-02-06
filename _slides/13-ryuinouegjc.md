@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Hello From Japan.
+Hello From Shinagawa,Japan.
 
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 {: .center}
